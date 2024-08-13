@@ -225,4 +225,3 @@ Based on the data, here are some insights and findings that can be derived using
 ![Screenshot (243)](https://github.com/user-attachments/assets/caa3b3c6-69e5-46be-a65b-6e8f7badfdf3)
 
 **Emerging Influencers:** Influencers from areas like YouTube (e.g., Carry Minati, Bhuvan Bam) and Fashion & Modeling (e.g., Faisal Shaikh, Riyaz Aly) are also prominent, showing the rise of digital and social media platforms as new avenues of influence.
-![Screen Recording (13-08-2024 07-06-25)](https://github.com/user-attachments/assets/2f1f8624-2721-4569-bc47-494c09875883)
