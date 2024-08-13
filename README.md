@@ -124,7 +124,7 @@ Two cards are used to display summary statistics:
 
 These cards provide quick insights into average engagement and potential reach across different influence areas.
 
-https://github.com/user-attachments/assets/f3dc7b72-fd99-4a3a-94f4-fbc3a8b44157
+https://github.com/user-attachments/assets/858fb21c-7435-473a-b074-dab912bbbd0b
 
 ## DAX Measures
 
