@@ -124,7 +124,7 @@ Two cards are used to display summary statistics:
 
 These cards provide quick insights into average engagement and potential reach across different influence areas.
 
-![Screenshot (235)](https://github.com/user-attachments/assets/d1a287cc-2304-4efc-91cd-f8ceb551f46b)
+https://github.com/user-attachments/assets/f3dc7b72-fd99-4a3a-94f4-fbc3a8b44157
 
 ## DAX Measures
 
@@ -195,33 +195,33 @@ Based on the data, here are some insights and findings that can be derived using
 - **Virat Kohli** leads with 267.1 million followers, significantly higher than the rest.
 - **Narendra Modi** and **Alia Bhatt** follow with 87.3 million and 83.7 million followers, respectively.
 
-![Screenshot (237)](https://github.com/user-attachments/assets/d995b0da-4de0-4e9e-9db2-3f3deba32048)
+![Screenshot (237)](https://github.com/user-attachments/assets/47a09b4e-bae3-4a0e-97e8-e8b97be6a5f3)
 
 **Top 10 Influencers by Engagement Rate:**
 - **Sidhu Moosewala** has the highest engagement rate at 23.22%, indicating strong follower interaction.
 - **Sushant Singh Rajput** and **MC Stan** also have very high engagement rates at 19.81% and 13.19%, respectively.
 
-![Screenshot (238)](https://github.com/user-attachments/assets/5ac234d0-2048-43e1-be8b-9be69b8e4c93)
+![Screenshot (238)](https://github.com/user-attachments/assets/9599ba43-72d5-4b04-ac67-87ab3cad876b)
 
 **Top 10 Influencers by Potential Reach:**
 - **Virat Kohli** has the highest potential reach of 80.1 million.
 - **Narendra Modi** follows with a potential reach of 26.2 million, showing his significant influence despite the lower follower count compared to Virat Kohli.
 
-![Screenshot (239)](https://github.com/user-attachments/assets/5e03d6ca-9b00-4192-9853-ceddfa20dba3)
+![Screenshot (239)](https://github.com/user-attachments/assets/ef2edb95-21e8-479c-b06a-a519ac7a8e8c)
 
 #### 2. Specific Findings
 
 **High Engagement Influencers:** Influencers with relatively lower followers but very high engagement rates like Sidhu Moosewala, MC Stan, and Sushant Singh Rajput could be high-value targets for marketing.
 
-![Screenshot (246)](https://github.com/user-attachments/assets/7d0ca898-385b-4945-b19d-6515a4545658)
-![Screenshot (245)](https://github.com/user-attachments/assets/cff04ac4-e7ad-4315-af26-60141eb82cda)
+![Screenshot (246)](https://github.com/user-attachments/assets/9c86f639-e889-4fc0-a8c7-d88498f6fe3f)
+![Screenshot (245)](https://github.com/user-attachments/assets/2e631d44-9eb3-431e-b605-2e35f51be5fe)
 
 **Celebrity Influence in Acting:** Acting dominates the influence categories, with many top influencers like Alia Bhatt, Katrina Kaif, and Deepika Padukone coming from this sector. This suggests that the film industry is a significant driver of influence in India.
 
-![Screenshot (242)](https://github.com/user-attachments/assets/e9eaeac6-317b-4f14-90ff-b753b46d4b34)
+![Screenshot (242)](https://github.com/user-attachments/assets/3a9d0913-a75e-49ad-9da4-ee87cd91771b)
 
 **Cricket's Influence:** While not as many cricketers are in the top follower rankings, those who are (like Virat Kohli and MS Dhoni) have exceptionally high potential reach and influence, indicating that cricket remains a powerful area of influence.
 
-![Screenshot (243)](https://github.com/user-attachments/assets/db013c4c-3b55-4c7a-adfa-066dd8e326c5)
+![Screenshot (243)](https://github.com/user-attachments/assets/caa3b3c6-69e5-46be-a65b-6e8f7badfdf3)
 
 **Emerging Influencers:** Influencers from areas like YouTube (e.g., Carry Minati, Bhuvan Bam) and Fashion & Modeling (e.g., Faisal Shaikh, Riyaz Aly) are also prominent, showing the rise of digital and social media platforms as new avenues of influence.
