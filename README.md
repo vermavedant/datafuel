@@ -187,7 +187,7 @@ SUMX(
 
 ### 5. Conclusions from the Analysis
 
-Based on the data, here are some insights and findings that can be derived using the visualizations from Power BI:
+Based on the data, here are some insights and findings that is derived using the visualizations from Power BI:
 
 #### 1. General Observations
 
